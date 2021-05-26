@@ -20,7 +20,7 @@ All contributions are published on zenodo: https://zenodo.org/communities/dhd/?p
 
 All the pre-processing scripts as well as the scripts for the automatic upload and publication on Zenodo of all individual contributions will be available on GitHub soon.
 
-# Documentation package_DHd2020.csv
+# Documentation package_DHd2019.csv
 
 - access_right: defines the rights for accessing the publication
 - communities: identifier of communities to which the contribution is assigned on zenodo
@@ -35,15 +35,15 @@ All the pre-processing scripts as well as the scripts for the automatic upload a
 - doi: persistent identifier of the publication on zenodo
 - keywords: self-given keywords by authors + conference_acronym
 - licence: standardized licence for DHd-contributions
+- notes: generic note of editorial work
 - prereserve_doi: persistent identifier that was prereserved while uploading publication to zenodo
 - publication_date: date of publication of the original book of abstracts
 - publication_type: type of publication on zenodo
+- references: link to the original book of abstracts
 - title: title of contribution
 - upload_type: type of upload
-- concept_doi: persistent identifier of all versions of a publication (points to the earliest version)
+- conceptdoi: persistent identifier of all versions of a publication (points to the earliest version)
 - files: files that are part of an individual publication
-- notes: generic note of editorial work
-- references: link to the original book of abstracts
 - xml_id: Identifier of a contribution in XML-file
 - format: format of presentation at the conference
 
