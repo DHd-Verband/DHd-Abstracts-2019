@@ -59,3 +59,5 @@ All contributions are published on zenodo: https://zenodo.org/communities/dhd/?p
 - DHd2018: https://github.com/DHd-Verband/DHd-Abstracts-2018
 - DHd2020: https://github.com/DHd-Verband/DHd-Abstracts-2020
 - DHd2022: https://github.com/DHd-Verband/DHd-Abstracts-2022
+- DHd2023: https://github.com/DHd-Verband/DHd-Abstracts-2023
+- DHd2025: https://github.com/DHd-Verband/DHd-Abstracts-2025
